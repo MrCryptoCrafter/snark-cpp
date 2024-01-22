@@ -1,0 +1,3 @@
+D:/snarks/build/CMakeFiles/ZKSNARKS.dir
+D:/snarks/build/CMakeFiles/edit_cache.dir
+D:/snarks/build/CMakeFiles/rebuild_cache.dir

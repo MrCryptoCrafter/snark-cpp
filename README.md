@@ -59,7 +59,7 @@ Contributions to the library are welcome. Please adhere to the following steps f
 
 ## License
 
-This project is licensed under the [LICENSE NAME] - see the LICENSE file for details.
+This project is licensed under the MIT License. The MIT License is a permissive license that is short and to the point. It lets people do almost anything they want with your project, like making and distributing closed source versions, as long as they provide attribution back to you and don’t hold you liable.
 
 ## Acknowledgments
 
