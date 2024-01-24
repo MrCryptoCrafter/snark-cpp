@@ -49,9 +49,6 @@
  *
  * This project is licensed under the MIT License.
  *
- * @section acknowledgments Acknowledgments
- *
- * Special thanks to all contributors and supporters of the project.
  *
  * @section contact Contact
  *
